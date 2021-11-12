@@ -51,6 +51,10 @@ color: this.chooseColor()
 
 Bind the this.setState in the constructor.
 
+## Task 10
+
+In Random's render method give Button component an attribute with a name of onClick set to handleClick method.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
