@@ -59,6 +59,11 @@ In Random's render method give Button component an attribute with a name of onCl
 
 In Button.js add an onClick attribute to the button tag with its value set to the passed in prop.
 
+## Task 12
+
+Voila!!
+The project is complete!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
