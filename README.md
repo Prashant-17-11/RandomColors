@@ -38,6 +38,15 @@ Now we are ready to render Button.
 Add a Button instance after header tag in render function of Random.js
 Add an attribute light={this.isLight()}
 
+## Task 8
+
+As we can see clicking the button doesnot make any changes as yet!
+We need to define an event handler that updates this.state.color to a new random color.
+
+Give Random a new method named handleClick.
+Inside .handleClick()'s body, call this.setState(). As an argument, pass this.setState() an object with the property:
+color: this.chooseColor()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
