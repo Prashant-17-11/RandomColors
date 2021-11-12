@@ -32,6 +32,12 @@ Export Button component class.
 
 Import Buttton component in Random
 
+## Task 7
+
+Now we are ready to render Button.
+Add a Button instance after header tag in render function of Random.js
+Add an attribute light={this.isLight()}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

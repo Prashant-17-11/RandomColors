@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "./Button";
+import { Button } from "./Button";
 
 class Random extends React.Component {
   constructor(props) {
@@ -43,6 +43,7 @@ class Random extends React.Component {
         <h1 className={this.isLight() ? "white" : "black"}>
           Your color is {this.formatColor(this.state.color)}.
         </h1>
+        <Button light={this.isLight()} />
       </div>
     );
   }
