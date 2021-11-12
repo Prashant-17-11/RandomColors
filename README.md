@@ -28,6 +28,10 @@ Inside the header tag, instead of simply using this.state.color, call the format
 
 Export Button component class.
 
+## Task 6
+
+Import Buttton component in Random
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
