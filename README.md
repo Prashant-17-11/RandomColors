@@ -55,6 +55,10 @@ Bind the this.setState in the constructor.
 
 In Random's render method give Button component an attribute with a name of onClick set to handleClick method.
 
+## Task 11
+
+In Button.js add an onClick attribute to the button tag with its value set to the passed in prop.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
