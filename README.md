@@ -1,3 +1,9 @@
+# Random Colors
+
+This project is build under react101 course from codecademy
+The background of the app will change to a random color every time the button is pressed.
+The purpose is to practice the props and state features of react in order to see how components interact with each other
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
