@@ -15,6 +15,15 @@ Inside the body of constructor(), write super(props); and set the state with col
 
 Change the three numbers inside color to see a different color as background
 
+## Task 3
+
+In the render() method, inside of the header (h1) tag, add the text, your color is _. Instead of _, access this.state.color!
+
+## Task 4
+
+In Random, find the method named formatColor. This method transforms an rgb array into something a bit more readable.
+Inside the header tag, instead of simply using this.state.color, call the formatColor function and pass in this.state.color as an argument
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
