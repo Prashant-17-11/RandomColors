@@ -22,7 +22,11 @@ In the render() method, inside of the header (h1) tag, add the text, your color 
 ## Task 4
 
 In Random, find the method named formatColor. This method transforms an rgb array into something a bit more readable.
-Inside the header tag, instead of simply using this.state.color, call the formatColor function and pass in this.state.color as an argument
+Inside the header tag, instead of simply using this.state.color, call the formatColor function and pass in this.state.color as an argument.
+
+## Task 5
+
+Export Button component class.
 
 # Getting Started with Create React App
 
