@@ -47,6 +47,10 @@ Give Random a new method named handleClick.
 Inside .handleClick()'s body, call this.setState(). As an argument, pass this.setState() an object with the property:
 color: this.chooseColor()
 
+## Task 9
+
+Bind the this.setState in the constructor.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
