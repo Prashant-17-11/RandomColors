@@ -4,6 +4,13 @@ This project is build under react101 course from codecademy
 The background of the app will change to a random color every time the button is pressed.
 The purpose is to practice the props and state features of react in order to see how components interact with each other
 
+## Task 1
+
+Have a look at the Random component class. Random's job is to store a random color, and to use that color to update the screen background.
+First, let's store this random color as state.
+Give Random a constructor() method. Give constructor() one parameter, named props.
+Inside the body of constructor(), write super(props); and set the state with color: [x,y,z] with x,y,z replaced by some numbers
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
