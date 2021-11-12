@@ -3,7 +3,7 @@ import React from "react";
 class Random extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { color: [12, 222, 12] };
+    this.state = { color: [12, 22, 12] };
   }
 
   componentDidMount() {
@@ -39,7 +39,9 @@ class Random extends React.Component {
   render() {
     return (
       <div>
-        <h1 className={this.isLight() ? "white" : "black"}></h1>
+        <h1 className={this.isLight() ? "white" : "black"}>
+          Your color is {this.state.color}.
+        </h1>
       </div>
     );
   }
