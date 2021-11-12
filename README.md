@@ -11,6 +11,10 @@ First, let's store this random color as state.
 Give Random a constructor() method. Give constructor() one parameter, named props.
 Inside the body of constructor(), write super(props); and set the state with color: [x,y,z] with x,y,z replaced by some numbers
 
+## Task 2
+
+Change the three numbers inside color to see a different color as background
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
